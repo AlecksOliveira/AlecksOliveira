@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá! Eu sou o Alecksander Oliveira 👋</h1>
+<h1 align="center">Olá! Eu sou o Alecksander Ramos de Oliveira 👋</h1>
 
 <p align="center">
   Estudante de Engenharia de Software no CEUB, atuando na área de Informática.
