@@ -1,10 +1,5 @@
-## Olá! Eu sou o Alecksander OLiveira.
 
-- 🏫 Hoje sou estudante de Engenharia de Software.
-- 🧑 tenho 21 anos.
-- 💻 Trabalho na área de Informática ultimamente.
-
-- <h1 align="center">Olá! Eu sou o Alecksander Oliveira 👋</h1>
+<h1 align="center">Olá! Eu sou o Alecksander Oliveira 👋</h1>
 
 <p align="center">
   Estudante de Engenharia de Software no CEUB, atuando na área de Informática.
@@ -19,8 +14,7 @@
 
 ## Sobre mim
 
-- 🎓 Estudante de Engenharia de Software
-- 💻 Trabalho na área de Informática
+- 🎂 Tenho 21 anos
 - 📚 Estudando lógica de programação, modelagem de dados e engenharia de software
 - 🚀 Montando meu portfólio com os projetos da faculdade
 
@@ -43,3 +37,6 @@
   <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecksOliveira&layout=compact&theme=dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="gato%20coca.jpeg" alt="Gato de headset tomando Coca-Cola" width="300" />
+</p>
