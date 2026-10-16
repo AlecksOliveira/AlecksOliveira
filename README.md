@@ -43,6 +43,7 @@
   <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecksOliveira&layout=compact&theme=dark&hide_border=true" />
 </p>
 
+##é...
 <p align="center">
   <img src="gato%20coca.jpeg" alt="Gato de headset tomando Coca-Cola" width="300" />
 </p>
