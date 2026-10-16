@@ -7,9 +7,15 @@
 
 <p align="center">
   <a href="https://alecksoliveira.github.io/Portifolio/">Portfólio</a> •
-  <a href="https://www.linkedin.com/in/AlecksOliveira">LinkedIn</a>
 </p>
 
+## Contatos
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/AlecksOliveira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://t.me/alecks_zzx"><img src="https://img.shields.io/badge/Instagram-26A5E4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:sanderclash9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 ---
 
 ## Sobre mim
